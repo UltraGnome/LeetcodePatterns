@@ -18,6 +18,6 @@ When to use?
 LeetCode Questions
 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 
-15. [3Sum](https://leetcode.com/problems/3sum/description/)
+15. [3Sum](https://leetcode.com/problems/3sum/description/)  NEED TO SOLVE
 
 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
