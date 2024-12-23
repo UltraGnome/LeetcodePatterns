@@ -1,4 +1,4 @@
-Fast and Slow Pointers
+### Fast and Slow Pointers
 
 One pointer moves 1 space, the other moves 2.  Use this pattern to find middle of a list or a cycle in the list.
 This pattern is fast:  O(1)
